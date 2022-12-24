@@ -1,5 +1,2 @@
-# Replicate the Following Output
 
-`Assests are Provided!`
-
-![Project 6](./Data%20Analytics%20Landing%20page.png)
+live at https://ashish25h.github.io/FSJS_Project_13/
